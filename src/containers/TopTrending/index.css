@@ -1,0 +1,23 @@
+.top-trending, #root, body{
+	background-color: #EEEAEA; 
+}
+.video-item{
+	background-color: #FFFFFF;
+	max-width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+	padding: 10px; 
+	color:#2699FB;
+}
+
+.video-channel-name,.video-views,.video-post-date{
+	font-weight: bold;
+	margin: 5px;
+	font-size: 15px;
+	font-family: arial;
+}
+.video-title{
+	font-size: 20px;
+	font-family: georgia;
+}
